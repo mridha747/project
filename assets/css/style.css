@@ -1,0 +1,242 @@
+.syarat1{
+    opacity: 0;
+    transform: translate(100px);
+    transition: 1s;
+  }
+
+.syarat1.bah{
+opacity: 1;
+transform: translate(0,0);
+
+}
+
+
+.penggunaan{
+    opacity: 0;
+    transform: translate(0,100px);
+    transition: 2s;
+  }
+
+.penggunaan.bah{
+opacity: 1;
+transform: translate(0,0);
+
+}
+
+.ilus2{
+  opacity: 0;
+  transform: translate(-100px);
+  transition: 1s;
+}
+
+.ilus2.bah{
+  opacity: 1;
+  transform: translate(0,0);
+}
+
+
+.syarat2{
+  opacity: 0;
+  transform: translate(0,100px);
+  transition: 1s;
+}
+
+.syarat3{
+transform: translate(0, 150px);
+transition: 2s;
+}
+.syarat4{
+  transform: translate(0, 200px);
+  transition: 3s;
+}
+
+.syarat2.bah{
+  opacity: 1;
+  transform: translate(0,0);
+
+}
+.syarat3.bah{
+  opacity: 1;
+  transform: translate(0,0);
+
+}
+.syarat4.bah{
+  opacity: 1;
+  transform: translate(0,0);
+
+}
+
+html 
+{
+    scroll-behavior: smooth;
+}
+.modal-tittle{
+    font-family: poppins;
+    font-size: 30px;
+}
+.collapse{
+    font-family: poppins;
+    
+}
+
+
+.sign{
+    background-color:#FD8467;
+    color: white;
+    
+}
+
+.buttonhover button:hover{
+    background-color: #FD3D00;
+    opacity: 80%;
+}
+
+.sign:hover{
+    color: white;
+}
+
+.login {
+    background-color: white;;
+}
+
+.navbar-brand img{
+    padding-right:50px;
+}
+.text-hero{
+    
+    font-family: poppins;
+    font-weight: bold;
+    font-size: 34px;
+}
+.ilus{
+ width: 800px;
+ height: 490px;
+}
+.ilus2{
+    width: 450px;
+    height: 440px;
+   }
+.textp{
+    font-family: poppins;
+    font-weight: light;
+    font-size: 16px;
+    color: #b0b0b0;
+}
+
+.btn-hero{
+    background-color:#FD8467 ;
+    font-family: poppins;
+    color: white;
+}
+
+.btn-hero:hover{
+background-color: #FD3D00;
+color: white;
+}
+
+.textpenggunaan{
+    font-family: poppins;
+    font-size: 24px;
+    font-weight: bold;
+    
+}
+
+
+.penggunaan p{
+    font-family: poppins;
+    font-size: 16px;
+
+}
+
+.penggunaan img{
+    padding-right: 12px;
+}
+
+.cara {
+    margin-top:70px;
+}
+
+.about{
+    margin-top: 100px;
+}
+.about p{
+    font-family: poppins;
+    text-align: center;
+}
+
+.heading{
+    font-weight: bold;
+    font-size: 24px;
+
+}
+
+.paragraf{
+    margin-top: -10px;
+    font-size: 16px;
+    color: #b0b0b0;
+}
+
+.abouticon{
+    margin-top: 100px;
+}
+.headingabout{
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 10px;
+
+}
+
+.paragrafabout{
+    font-size: 16px;
+    color: #b0b0b0;
+}
+.hr{
+    margin-top: 100px;;
+}
+
+.logo1{
+    padding-top: 30px;
+}
+
+.footer{
+    font-family: poppins;
+}
+.headingfooter{
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    padding-top: 10px;
+
+}
+
+.paragraffooter{
+    text-align: center;
+    margin-top: -10px;
+    font-size: 16px;
+    color: #b0b0b0;
+}
+
+.paragraffot{
+    text-align: center;
+    font-size: 16px;
+    
+}
+
+.copyright{
+    padding-top: 50px;
+    
+}
+
+.paragraff{
+    font-size: 16px;
+    text-align: center;
+}
+
+
+.paragraff2{
+    font-size: 16px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+
